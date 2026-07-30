@@ -2,15 +2,11 @@
 
 This is a full-stack web application designed to manage client leads effectively.
 
-## Tech Stack
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
 
-## How to Run the Project
+Overview: A full-stack application for registering and tracking potential client leads.
+Tech Stack: MongoDB, Express.js, React, Node.js, Tailwind CSS (MERN).
+Key Features: * Full CRUD (Create, Read, Update, Delete) functionality.
+Bilingual support (Switch between Amharic and English).
+Real-time lead status tracking and management.
+Key Learning: RESTful API development, database schema design, and handling complex state across the stack.
 
-### Server Setup
-```bash
-cd server
-npm install
-npm start
